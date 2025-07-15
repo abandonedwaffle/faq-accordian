@@ -42,7 +42,7 @@ body {
 
 }
 .questions:hover {
-    color: hsl(292, 16%, 49%);
+    color: #AD28EB;
     cursor: pointer;
 }
 
